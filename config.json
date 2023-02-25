@@ -1,0 +1,13 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingground",
+    "password-user": "Gcp12345",
+    "gmail-user": "jawadshah@gmail.com",
+    "content": "Python Programming",
+    "no_of_post": 5,
+    "user_email": "col.jawadshahak47@gmail.com",
+    "user_password": "gcp12345"
+  }
+}
